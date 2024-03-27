@@ -14,7 +14,7 @@ const page = () => {
         <form action="https://formspree.io/f/mvoewgkl" method='POST'>
           <div className='grid justify-center items-center'>
           <input type="email" placeholder='Enter your email' required className='m-5 p-5 w-full bg-transparent border'/>
-           <textarea name="textarea" id="textarea" cols="30" rows="10" placeholder='Enter your message' required className='m-5 p-5 w-full bg-transparent border'></textarea>
+           <textarea name="textarea" id="textarea" cols={10} rows={10} placeholder='Enter your message' required className='m-5 p-5 w-full bg-transparent border'></textarea>
            <button type='submit' className='bg-green-700 w-fit p-2 rounded-xl'>
             send message
           </button>
