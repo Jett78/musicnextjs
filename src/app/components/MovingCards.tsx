@@ -8,26 +8,31 @@ const MovingCards = () => {
       quote:
         "With skilled instructors, diverse courses, and a welcoming community, it's the perfect place to nurture your musical talent, no matter your level. Highly recommend!",
       name: "Ram Kapoor",
+      title:"",
     },
     {
       quote:
         "The supportive community and inspiring atmosphere pushed me to strive for excellence. The opportunities for performance and collaboration have been invaluable in shaping my musical identity..",
       name: "Saujanya Shrestha",
+      title:"",
     },
     {
       quote:
         "The diverse range of courses and performance opportunities allowed me to explore different genres and develop a well-rounded skill set.",
       name: "Binod Shakya",
+      title:"",
     },
     {
       quote:
         "The institute's emphasis on creativity and innovation challenged me to push my boundaries and think outside the box. I'm incredibly grateful for the friendships I've made and the support I've received",
       name: "Justin Gabriel",
+      title:"",
     },
     {
       quote:
         ".]I've not only improved my technical skills but also gained confidence in my artistic abilities. The institute truly fosters a passion for music and provides the resources needed to succeed",
       name: "Tosin Deula",
+      title:"",
     },
   ];
   return (
